@@ -1,0 +1,45 @@
+[
+    { 
+        "description" : "Get groceries",
+        "tags"  : [ "shopping", "chores" ],
+        "importance" : "High",
+        "status" : "active",
+        "date" : "2017-01-30"
+    },
+    { 
+        "description" : "Make up some new ToDos",
+        "tags"  : [ "writing", "work" ],
+        "importance" : "Medium",
+        "status" : "finished",
+        "dateFinished" : "2016-12-21",
+        "date" : "2017-01-05"
+    },
+    {
+        "description" : "Prep for Monday's class",
+        "tags"  : [ "work", "teaching" ],
+        "importance" : "Medium",
+        "status" : "active",
+        "date" : "2017-01-15"
+    },
+    { 
+        "description" : "Answer emails",
+        "tags"  : [ "work" ],
+        "importance" : "High",
+        "status" : "active",
+        "date" : "2017-01-11"
+    },
+    { 
+        "description" : "Take Gracie to the park (not soon)",
+        "tags"  : [ "chores", "pets" ],
+        "importance" : "Medium",
+        "status" : "active",
+        "date" : "2017-01-31"
+    },
+    { 
+        "description" : "Finish writing this book (soon)",
+        "tags"  : [ "writing", "work" ],
+        "importance" : "Low",
+        "status" : "active",
+        "date" : "2017-01-01"
+    }
+]
